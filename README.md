@@ -20,3 +20,5 @@ Then use:
 $backup = new \Backup();
 $backup->Create();
 ```
+
+© [winyle-online.pl](https://winyle-online.pl)
